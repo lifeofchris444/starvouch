@@ -30,7 +30,7 @@ const features = [
     secondaryIcon: Coffee,
     title: "Merch & Tumblers",
     description:
-      "Collect cups, tumblers, and mugs — including the new Pink Starbucks Bear Cup everyone's talking about.",
+      "Collect cups, tumblers, and mugs — including the new Pink Bearista Cup everyone's talking about.",
   },
 ];
 

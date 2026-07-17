@@ -61,7 +61,7 @@ export function CTA() {
               }`}
               style={{ transitionDelay: sectionVisible ? "400ms" : "0ms" }}
             >
-              Join thousands of shoppers who have already claimed their $100 reward. Your next coffee run is just a few clicks away.
+              Join thousands of shoppers who have already claimed their summer discount code. Your next coffee run is just a few clicks away.
             </p>
             
             <div

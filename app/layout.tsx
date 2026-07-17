@@ -10,8 +10,8 @@ const poppins = Poppins({
 })
 
 export const metadata: Metadata = {
-  title: "Starbucks Method",
-  description: "Discover how people are unlocking up to $100 in Starbucks rewards. Complete simple steps and claim your gift card today.",
+  title: "Starbucks Discounts They Don't Advertise",
+  description: "Discover how people are unlocking hidden discount codes on handcrafted drinks, fresh food, and the new Pink Bearista Cup. Claim your summer discount today.",
   generator: "v0.app",
   icons: {
     icon: [
@@ -25,26 +25,26 @@ export const metadata: Metadata = {
   },
   openGraph: {
     type: "website",
-    title: "Starbucks Method",
-    description: "Unlock up to $100 in Starbucks rewards with a simple process.",
-    siteName: "Starbucks Method",
+    title: "Starbucks Discounts They Don't Advertise",
+    description: "Unlock hidden discount codes on drinks, food, and the new Pink Bearista Cup with a simple process.",
+    siteName: "Starbucks Discounts",
     images: [
       {
         url: "/og-image.jpg",
         width: 1200,
         height: 630,
-        alt: "Starbucks Rewards",
+        alt: "Starbucks Summer Discount",
       },
     ],
   },
   twitter: {
     card: "summary_large_image",
-    title: "Starbucks Method",
-    description: "Unlock up to $100 in Starbucks rewards with a simple process.",
+    title: "Starbucks Discounts They Don't Advertise",
+    description: "Unlock hidden discount codes on drinks, food, and the new Pink Bearista Cup with a simple process.",
     images: ["/og-image.jpg"],
   },
   other: {
-    "apple-mobile-web-app-title": "Starbucks Method",
+    "apple-mobile-web-app-title": "Starbucks Discounts",
   },
 }
 

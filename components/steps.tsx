@@ -26,7 +26,7 @@ const steps = [
   },
   {
     icon: Trophy,
-    title: "Receive your $100 reward",
+    title: "Receive your discount code",
     description: "Delivered straight to your inbox",
   },
 ];

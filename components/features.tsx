@@ -9,28 +9,28 @@ const features = [
     secondaryIcon: Sparkles,
     title: "Handcrafted Drinks",
     description:
-      "Enjoy lattes, cold brews, refreshers, and seasonal favorites made just the way you like.",
+      "Use your discount on lattes, cold brews, refreshers, and seasonal favorites made just the way you like.",
   },
   {
     icon: Croissant,
     secondaryIcon: CupSoda,
     title: "Fresh Food & Bakery",
     description:
-      "Pair your drink with breakfast sandwiches, pastries, protein boxes, and sweet treats.",
+      "Save on breakfast sandwiches, pastries, protein boxes, and sweet treats to pair with your drink.",
   },
   {
     icon: Home,
     secondaryIcon: Sparkles,
     title: "Coffee at Home",
     description:
-      "Stock up on whole bean coffee, K-Cup pods, instant blends, and brewing essentials.",
+      "Stock up for less on whole bean coffee, K-Cup pods, instant blends, and brewing essentials.",
   },
   {
     icon: Sparkles,
     secondaryIcon: Coffee,
     title: "Merch & Tumblers",
     description:
-      "Collect cups, tumblers, and mugs — including the new Pink Bearista Cup everyone's talking about.",
+      "Put your discount toward cups, tumblers, and mugs — including the new Pink Bearista Cup everyone's talking about.",
   },
 ];
 
@@ -49,7 +49,7 @@ export function Features() {
             Unlock Rewards
           </span>
           <h2 className="text-2xl sm:text-3xl md:text-4xl font-semibold text-foreground mt-3 max-w-2xl mx-auto text-balance">
-            What You Can Do With Your $100 Gift Card
+            What You Can Do With Your Summer Discount
           </h2>
         </div>
 
